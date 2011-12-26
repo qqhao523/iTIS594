@@ -1,0 +1,31 @@
+---------------------------Mac OS X 10.6-microtrends-Mac-Pro.local---------------------------
+>>>>Product Environment 
+  Product                     :Trend Smart Surfing 1.5
+  CPU Type                    :Intel Core 2 Duo
+  Platform                    :Mac OS X 10.6 (10A432)
+  Update Server               :http://smartsurfing15-p.pre-opr-au.trendmicro.com/activeupdate
+
+>>>>Pattern Download 
+  Latest/Current Pattern      :859550
+  Previous Pattern            :859350
+  Pattern Download Type       :Incremental Update
+  Result                      :SUCCESS
+  Update Time Start           :7:29:23
+  Update Time End             :7:29:58
+
+>>>>Pattern Test (Detection/Cleanup) result
+  Expected Total              :48
+  Malware Detected            :54
+  Malware Cleaned             :0
+  Malware Qurantined          :30
+  Normal file Detected        :0
+  Result                      :SUCCESS
+  Scan Time Start             :7:30:1
+  Scan Time End               :7:30:20            
+  
+
+>>>>PIT Test Result
+  Overall Time Start          :7:29:22
+  Overall Time End            :7:30:20
+  Result                      :SUCCESS
+

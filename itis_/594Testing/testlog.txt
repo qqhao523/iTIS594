@@ -1,0 +1,31 @@
+---------------------------Mac OS X 10.5.5-iTIS594PIT.local---------------------------
+>>>>Product Environment 
+  Product                     :Trend Smart Surfing 1.5
+  CPU Type                    :Intel® Pentium® 4 CPU
+  Platform                    :Mac OS X 10.5.5 (9F33)
+  Update Server               :http://smartsurfing15-p.pre-opr-au.trendmicro.com/activeupdate
+
+>>>>Pattern Download 
+  Latest/Current Pattern      :633750
+  Previous Pattern            :00000
+  Pattern Download Type       :Full Update
+  Result                      :SUCCESS
+  Update Time Start           :22:3:37
+  Update Time End             :22:24:26
+
+>>>>Pattern Test (Detection/Cleanup) result
+  Expected Total              :48
+  Malware Detected            :54
+  Malware Cleaned             :0
+  Malware Qurantined          :30
+  Normal file Detected        :0
+  Result                      :SUCCESS
+  Scan Time Start             :22:24:36
+  Scan Time End               :22:25:12            
+  
+
+>>>>PIT Test Result
+  Overall Time Start          :23:48:36
+  Overall Time End            :00:05:12
+  Result                      :SUCCESS
+

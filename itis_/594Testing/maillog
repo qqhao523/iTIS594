@@ -1,0 +1,28 @@
+
+             +-----------------------------------------------------+
+             |                TeMail       Ver 2.20                |
+             |                                                     |
+             |       Copyright (c) 2000-2006  Trend Micro Inc.     |
+             |                                                     |
+             |               Developed by Tools Team               |
+             | 2007-01-24 Marvin add defensive codes to handle file open error |
+             | 2007-01-22 Marvin replace CreateThread with _beginthreadex and support detach 
+             | 2007-01-21 Marvin replace TD_SOCK_ReceiveLine with the one without insanity MS
+             | 2007-01-21 Marvin replace winsock with winsock2   |
+             | 2007-01-19 Marvin destory mutex when exit           |
+             | 2006-11-20 haijun add performance mode,/performance |
+             | 2006-12-08 haijun add /SIMLOG mode,for performance  |
+             | 2006-12-22 haijun add error code for socket error   |
+             |                        2.20                         |
+             |          email : Guile_Chao@trend.com.tw            |
+             +-----------------------------------------------------+
+Reading initial setting from /Users/microtrend/594Testing/temail.ini
+
+Enter SendMailDirectory
+[2011/11/24 07:30:28] [000001] Send Mail OK (Result.ini, SRV_TW-TCMT@trend.com.tw;jamie_chang@trend.com.tw;jervis_lin@trend.com.tw, 1 sent)
+TD_OnGetFiles Right!
+
+Total 1 mails 0.0003 MB were sent.
+Total 0 mails fail to send.
+0.00 CPU seconds has elapsed.
+Throughput is 0.2360 MB/sec (273 Byte / (1024*1024) / 0.00 sec)

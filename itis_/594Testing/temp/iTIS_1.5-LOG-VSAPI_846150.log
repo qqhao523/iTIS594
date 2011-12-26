@@ -1,0 +1,76 @@
+---------------------------Mac OS X 10.6-microtrends-Mac-Pro.local---------------------------
+>>>>Product Environment 
+  Product                     :Trend Smart Surfing 1.5
+  CPU Type                    :Intel Core 2 Duo
+  Platform                    :Mac OS X 10.6 (10A432)
+  Update Server               :http://smartsurfing15-p.pre-opr-au.trendmicro.com/activeupdate
+
+>>>>Pattern Download 
+  Latest/Current Pattern      :846150
+  Previous Pattern            :845950
+  Pattern Download Type       :Incremental Update
+  Result                      :FAIL
+  Update Time Start           :7:3:56
+  Update Time End             :7:3:59
+
+>>>>Product Environment 
+  Product                     :Trend Smart Surfing 1.5
+  CPU Type                    :Intel Core 2 Duo
+  Platform                    :Mac OS X 10.6 (10A432)
+  Update Server               :http://smartsurfing15-p.pre-opr-au.trendmicro.com/activeupdate
+
+>>>>Pattern Download 
+  Latest/Current Pattern      :846150
+  Previous Pattern            :845950
+  Pattern Download Type       :Incremental Update
+  Result                      :SUCCESS
+  Update Time Start           :7:3:31
+  Update Time End             :7:4:5
+
+>>>>Pattern Test (Detection/Cleanup) result
+  Expected Total              :48
+  Malware Detected            :54
+  Malware Cleaned             :0
+  Malware Qurantined          :30
+  Normal file Detected        :0
+  Result                      :SUCCESS
+  Scan Time Start             :7:4:8
+  Scan Time End               :7:4:27            
+  
+
+>>>>PIT Test Result
+  Overall Time Start          :7:3:30
+  Overall Time End            :7:4:27
+  Result                      :SUCCESS
+
+---------------------------Mac OS X 10.6-microtrends-Mac-Pro.local---------------------------
+>>>>Product Environment 
+  Product                     :Trend Smart Surfing 1.5
+  CPU Type                    :Intel Core 2 Duo
+  Platform                    :Mac OS X 10.6 (10A432)
+  Update Server               :http://smartsurfing15-p.pre-opr-au.trendmicro.com/activeupdate
+
+>>>>Pattern Download 
+  Latest/Current Pattern      :846150
+  Previous Pattern            :845950
+  Pattern Download Type       :Incremental Update
+  Result                      :SUCCESS
+  Update Time Start           :10:59:44
+  Update Time End             :11:0:19
+
+>>>>Pattern Test (Detection/Cleanup) result
+  Expected Total              :48
+  Malware Detected            :54
+  Malware Cleaned             :0
+  Malware Qurantined          :30
+  Normal file Detected        :0
+  Result                      :SUCCESS
+  Scan Time Start             :11:0:23
+  Scan Time End               :11:0:41            
+  
+
+>>>>PIT Test Result
+  Overall Time Start          :10:59:43
+  Overall Time End            :11:0:41
+  Result                      :SUCCESS
+
